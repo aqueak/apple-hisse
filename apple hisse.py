@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 14 19:38:12 2025
 
-@author: Gaming
+@author: Aqueak
 """
 
 #Kütüphaneler
